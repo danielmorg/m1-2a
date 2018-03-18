@@ -9,24 +9,24 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Sun Mar 18 18:21:13 2018
+<m key="abiword.date_last_changed">Sun Mar 18 18:35:45 2018
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.creator">dani</m>
-<m key="dc.date">Sun Mar 18 18:21:13 2018
+<m key="dc.date">Sun Mar 18 18:35:35 2018
 </m>
 <m key="dc.format">application/x-abiword</m>
 </metadata>
 <rdf>
 </rdf>
-<history version="1" edit-time="24" last-saved="1521393673" uid="b3eec5da-2ad0-11e8-8116-d3754e85765b">
-<version id="1" started="1521393673" uid="c2672b16-2ad0-11e8-8116-d3754e85765b" auto="0" top-xid="2"/>
+<history version="5" edit-time="896" last-saved="1521394545" uid="b3eec5da-2ad0-11e8-8116-d3754e85765b">
+<version id="5" started="1521393673" uid="c9b2315c-2ad2-11e8-8116-d3754e85765b" auto="0" top-xid="2"/>
 </history>
 <styles>
 <s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
 </styles>
 <pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
 <section xid="1" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
-<p style="Normal" xid="2"><c>fichero a</c></p>
+<p style="Normal" xid="2"><c>fichero c</c></p>
 </section>
 </abiword>
